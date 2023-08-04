@@ -1,4 +1,3 @@
-/* Add your CSS styles here */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -35,4 +34,7 @@ footer {
     padding: 0.5rem;
 }
 
-/* Add more CSS styles as needed */
+header img {
+    max-width: 150px; /* Adjust the size as needed */
+    border-radius: 50%; /* To create a circular photo, if desired */
+}
